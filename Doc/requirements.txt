@@ -19,5 +19,5 @@ blurb
 python-docs-theme
 docutils>=0.17
 alabaster<0.8,>=0.7
-
-
+pillow
+imghdr-ng
